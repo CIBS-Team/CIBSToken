@@ -1,0 +1,7 @@
+# custom truffle-config.js setup
+.private-keys
+.mnemonic
+
+build
+node_modules
+conda-env
